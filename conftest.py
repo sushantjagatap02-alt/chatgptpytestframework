@@ -18,3 +18,6 @@ def setup():
     yield driver
 
     driver.quit()
+
+
+print()
